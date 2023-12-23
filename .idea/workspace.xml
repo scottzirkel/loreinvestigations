@@ -7,10 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02b3da8d-52f1-4bf0-8d6b-9a7367b0f0cf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.js" afterDir="false" />
-    </list>
+    <list default="true" id="02b3da8d-52f1-4bf0-8d6b-9a7367b0f0cf" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,7 +85,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.laravel-idea.search-composer-json": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "webstrips",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "/Users/scott/code/guysoftheuniverse/src/app",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -147,7 +144,7 @@
       <workItem from="1647187911501" duration="4376000" />
       <workItem from="1702942292970" duration="1592000" />
       <workItem from="1703025683043" duration="7701000" />
-      <workItem from="1703369954834" duration="4081000" />
+      <workItem from="1703369954834" duration="4230000" />
     </task>
     <servers />
   </component>

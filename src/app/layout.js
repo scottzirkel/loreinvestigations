@@ -47,7 +47,7 @@ export default function RootLayout({ children }) {
           </div>
           <footer className="space-y-2 text-center text-sm text-stone-400">
             <p>
-              Copyright © 2010 – {date.getFullYear()}{' '}
+              Copyright © 2009 – {date.getFullYear()}{' '}
               <Link className="text-red-700 transition hover:text-red-500" href="https://scottzirkel.com" target="_blank">
                 Scott Zirkel.
               </Link>{' '}
