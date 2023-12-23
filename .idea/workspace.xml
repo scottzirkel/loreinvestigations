@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="02b3da8d-52f1-4bf0-8d6b-9a7367b0f0cf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/about.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/images/about.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/images/about.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/images/body-back.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/images/body-back.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/images/logo-hover.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/images/logo-hover.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/images/preview-01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/images/preview-01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/images/preview-02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/images/preview-02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/images/preview-03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/images/preview-03.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/images/preview.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/images/preview.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/images/store.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/images/store.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/includes/includes.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/styles/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/media/styles/common.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="tsconfig.json" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="2021" />
+                    <option name="lastUsedInstant" value="1632357785" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1632357784" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/opt/homebrew/Cellar/php/8.2.7_1/bin/php" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="1yW9Q55zd4AHZQsKKTkkH4vykhV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.laravel-idea.search-composer-json": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "webstrips",
+    "last_opened_file_path": "/Users/scott/code/guysoftheuniverse/src/app",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "/Users/scott/code/loreinvestigations/node_modules/prettier",
+    "settings.editor.selected.configurable": "settings.javascript.prettier",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/app" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/app/[strip]" />
+      <recent name="$PROJECT_DIR$/src/app/[[...slug]]" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/packages/webstrips/src" />
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02b3da8d-52f1-4bf0-8d6b-9a7367b0f0cf" name="Changes" comment="" />
+      <created>1632356458085</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632356458085</updated>
+      <workItem from="1632356460660" duration="3216000" />
+      <workItem from="1632360362753" duration="74069000" />
+      <workItem from="1632777695520" duration="1872000" />
+      <workItem from="1632934624809" duration="398000" />
+      <workItem from="1647046618555" duration="4905000" />
+      <workItem from="1647187834232" duration="27000" />
+      <workItem from="1647187875045" duration="22000" />
+      <workItem from="1647187911501" duration="4376000" />
+      <workItem from="1702942292970" duration="1592000" />
+      <workItem from="1703025683043" duration="7701000" />
+      <workItem from="1703369954834" duration="3253000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
