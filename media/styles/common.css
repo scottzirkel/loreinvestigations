@@ -1,5 +1,5 @@
 body{
-	background:#181818 url('../images/body-back.png') top center no-repeat;
+	background:#181818 url('../images/body-back.png') top center repeat-y;
 	margin:40px 0;
 	text-align:center;
 	font:14px Verdana, sans-serif;
@@ -45,16 +45,16 @@ h2,h3,h4{
 	position:absolute;
 	top:0;
 	left:338px;
-	margin-top:-32px;
+	margin-top:-40px;
 	width:284px;
-	height:102px;
+	height:200px;
 	text-indent:-9999px;
 }
 
 #header h1 a{
 	display:block;
 	width:284px;
-	height:102px;
+	height:200px;
 	background:url('../images/logo-hover.png') bottom center no-repeat;
 }
 
@@ -63,7 +63,7 @@ h2,h3,h4{
 }
 
 #nav{
-	height:40px;
+	height:80px;
 	display:block;
 }
 
@@ -79,42 +79,39 @@ h2,h3,h4{
 }
 
 #nav ul li a.preview{
-	background:url('../images/preview.png') top left no-repeat;
-	height:55px;
-	width:180px;
+	background:url('../images/preview.png') bottom left no-repeat;
+	height:80px;
+	width:174px;
 	position:absolute;
-	right:10%;
-	top:20px;
+	left:10%;
 }
 
 #nav ul li a.preview:hover{
-	background-position:bottom left;
+	background-position:top left;
 }
 
 #nav ul li a.store{
-	background:url('../images/store.png') top left no-repeat;
-	height:55px;
-	width:150px;
+	background:url('../images/store.png') bottom left no-repeat;
+	height:80px;
+	width:125px;
 	position:absolute;
-	top:20px;
 	left:10%;
 }
 
 #nav ul li a.store:hover{
-	background-position:bottom left;
+	background-position:top left;
 }
 
 #nav ul li a.about{
-	background:url('../images/about.png') top left no-repeat;
-	height:55px;
-	width:150px;
+	background:url('../images/about.png') bottom left no-repeat;
+	height:80px;
+	width:174px;
 	position:absolute;
-	top:20px;
 	right:10%;
 }
 
 #nav ul li a.about:hover{
-	background-position:bottom left;
+	background-position:top left;
 }
 
 #content{
@@ -133,9 +130,9 @@ h2,h3,h4{
 	padding:0 10px;
 }
 
-#content.about p{
-	padding:10px 40px;
-	text-align:left;
+#content p.narrow{
+	width:400px;
+	margin:0 auto 10px auto;
 }
 
 #content-top{
@@ -146,10 +143,6 @@ h2,h3,h4{
 #content-bottom{
 	background:url('../images/content-bottom.png') top left no-repeat;
 	height:20px;
-}
-
-#content.about p.no-pad{
-	padding:10px 0;
 }
 
 #store{
@@ -238,7 +231,7 @@ label{
 }
 
 #footer a{
-	color:#900;
+	color:#80BE3D;
 }
 
 #footer a:hover{
