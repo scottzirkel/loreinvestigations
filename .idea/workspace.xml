@@ -8,19 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02b3da8d-52f1-4bf0-8d6b-9a7367b0f0cf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/about.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/about.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/images/about.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/body-back.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/images/body-back.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/logo-hover.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/images/logo-hover.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/preview-01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/images/preview-01.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/preview-02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/images/preview-02.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/preview-03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/images/preview-03.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/preview.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/images/preview.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/store.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/images/store.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/includes/includes.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/styles/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/media/styles/common.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,7 +147,7 @@
       <workItem from="1647187911501" duration="4376000" />
       <workItem from="1702942292970" duration="1592000" />
       <workItem from="1703025683043" duration="7701000" />
-      <workItem from="1703369954834" duration="3253000" />
+      <workItem from="1703369954834" duration="4081000" />
     </task>
     <servers />
   </component>
