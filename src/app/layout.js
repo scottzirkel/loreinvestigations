@@ -1,3 +1,4 @@
+import { Analytics } from '@vercel/analytics/react'
 import { Inter } from 'next/font/google'
 import Image from 'next/image'
 import Link from 'next/link'
@@ -62,6 +63,7 @@ export default function RootLayout({ children }) {
           </footer>
           {children}
         </main>
+        <Analytics />
       </body>
     </html>
   )

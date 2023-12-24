@@ -8,7 +8,7 @@
     "start": "next start",
     "lint": "next lint"
   },
-  "dependencies": { "tailwind-merge": "^2.2.0" },
+  "dependencies": { "@vercel/analytics": "^1.1.1", "tailwind-merge": "^2.2.0" },
   "devDependencies": {
     "autoprefixer": "^10.0.1",
     "eslint": "^8",
