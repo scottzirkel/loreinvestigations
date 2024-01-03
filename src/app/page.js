@@ -25,7 +25,7 @@ export default async function Page() {
     <main>
       <div className="mt-8">
         {images.map((image, index) => (
-          <Image key={image.uuid} src={image.original_url} width={window.innerWidth < 1200 ? window.innerWidth : 1200} height={1200} alt={data.title} loading={index > 0 ? 'lazy' : 'eager'} />
+          <Image key={image.uuid} src={image.original_url} width={1200} height={1200} alt={data.title} loading={index > 0 ? 'lazy' : 'eager'} />
         ))}
       </div>
     </main>
