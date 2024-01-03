@@ -19,7 +19,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body className={twMerge(inter.className, 'bg-gradient-to-b from-stone-950 to-black')}>
         <header className="bg-red-950 p-4 text-center">
-          <Image src="/logo.png" width="950" height="290" alt="Lore Investigations" className="mx-auto" />
+          <Image src="/logo.png" width="950" height="290" alt="Lore Investigations" className="mx-auto" loading="eager" />
         </header>
         <main className="mx-auto px-4 text-center md:px-12 lg:max-w-7xl">
           <div className="mx-auto max-w-2xl space-y-2 p-4 text-lg text-stone-200">
