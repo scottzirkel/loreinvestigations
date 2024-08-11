@@ -6,6 +6,7 @@
     <title>Lore Investigations</title>
     <meta name="description" content="Lore Investigations is a stand-alone web comic following the paranormal research of a haunted barn. Written by Amanda Jones and Scott Zirkel, art by Matt Hebb, Jason Worthington, and Juan Carlos Porras.">
     <link rel="icon" href="/favicon.ico" type="image/x-icon" sizes="16x16">
+    <link rel="preload" href="{{ $images[0]['original_url'] }}" as="image" />
     @vite('resources/css/app.css')
 </head>
 <body class="bg-gradient-to-b from-stone-950 to-black">
