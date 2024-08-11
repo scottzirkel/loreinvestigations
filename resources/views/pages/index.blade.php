@@ -37,7 +37,7 @@
     </div>
     <footer class="space-y-2 text-center text-sm text-stone-400">
         <p>
-            Copyright © 2009 — {{ now()->format('Y') }}
+            Copyright © 2009-{{ now()->format('Y') }}
             <a class="text-red-700 transition hover:text-red-500" href="https://scottzirkel.com" target="_blank">
                 Scott Zirkel.
             </a>
