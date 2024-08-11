@@ -3,7 +3,6 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="/web/20240418183100cs_/https://loreinvestigations.com/_next/static/css/d4b18cc149264b03.css" data-precedence="next">
     <title>Lore Investigations</title>
     <meta name="description" content="Lore Investigations is a stand-alone web comic following the paranormal research of a haunted barn. Written by Amanda Jones and Scott Zirkel, art by Matt Hebb, Jason Worthington, and Juan Carlos Porras.">
     <link rel="icon" href="/favicon.ico" type="image/x-icon" sizes="16x16">
@@ -21,40 +20,40 @@
             regular teenage girl from one possessed by a ghost.
         </p>
         <p>
-            Lore Investigations is written by Amanda Jones and{' '}
-            <Link href="https://scottzirkel.com" target="_blank" class="transition hover:text-red-700">
-            Scott Zirkel
-            </Link>
-            {', '}
-            with art by{' '}
-            <Link
+            Lore Investigations is written by Amanda Jones and
+            <a href="https://scottzirkel.com" target="_blank" class="transition hover:text-red-700">
+                Scott Zirkel
+            </a>, with art by
+            <a
                 href="http://www.matthebb.com"
                 target="_blank"
                 class="text-stone-400 underline transition hover:text-red-700"
             >
-            Matt Hebb
-            </Link>
-            {'. '}
+                Matt Hebb
+            </a>.
             Jason Worthington is on inks and Juan Carlos Porras bringing up the colors.
         </p>
     </div>
     <footer class="space-y-2 text-center text-sm text-stone-400">
         <p>
-            Copyright © 2009 – {date.getFullYear()}{' '}
-            <Link class="text-red-700 transition hover:text-red-500" href="https://scottzirkel.com" target="_blank">
-            Scott Zirkel.
-            </Link>{' '}
+            Copyright © 2009 — {{ now()->format('Y') }}
+            <a class="text-red-700 transition hover:text-red-500" href="https://scottzirkel.com" target="_blank">
+                Scott Zirkel.
+            </a>
             All rights reserved.
         </p>
         <p>
-            Powered by{' '}
-            <Link class="text-red-700 transition hover:text-red-500" href="https://webstrips.app" target="_blank">
-            Webstrips
-            </Link>
+            Powered by
+            <a class="text-red-700 transition hover:text-red-500" href="https://webstrips.app" target="_blank">
+                Webstrips
+            </a>
         </p>
     </footer>
-    {children}
+    <section>
+        @foreach ($images as $image)
+            <img src="{{ $image->original_url }}" alt="{{ $imge->name }}" loading="{{ $loop->index > 1 ? 'lazy' : 'eager' }}" />
+        @endforeach
+    </section>
 </main>
-<Analytics />
 </body>
 </html>
