@@ -15,7 +15,7 @@ class HomePageController extends Controller
             return $response->json();
         });
 
-        $images = collect($strip->images);
+        $images = collect($strip['images']);
 
         return view('pages.index', [
             'preload' => $images->first()['original_url'],
