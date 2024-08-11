@@ -51,7 +51,7 @@
     </footer>
     <section class="mt-8">
         @foreach ($images as $image)
-            <img width="662" height="1024" src="{{ $image['original_url'] }}" alt="{{ $image['name'] }}" loading="{{ $loop->index > 0 ? 'lazy' : 'eager' }}" />
+            <img width="1184" height="1831" src="{{ $image['original_url'] }}" alt="{{ $image['name'] }}" loading="{{ $loop->index > 0 ? 'lazy' : 'eager' }}" />
         @endforeach
     </section>
 </main>
