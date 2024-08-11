@@ -37,7 +37,6 @@ return [
 
     'webstrips' => [
         'url' => env('WEBSTRIPS_URL'),
-        'comic_id' => env('WEBSTRIPS_COMIC_ID'),
         'api' => env('WEBSTRIPS_API'),
     ]
 
