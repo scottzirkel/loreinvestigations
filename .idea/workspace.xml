@@ -8,34 +8,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02b3da8d-52f1-4bf0-8d6b-9a7367b0f0cf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/HomePageController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/pages/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bun.lockb" beforeDir="false" afterPath="$PROJECT_DIR$/bun.lockb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/Untitled-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/about.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/body-back.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/buy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/cart.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/content-back.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/content-bottom.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/content-top.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/cover.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/facebook.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/fightcat.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/heguy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/logo-hover.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/nav-back.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/preview-01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/preview-02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/preview-03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/preview.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/store.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/scripts/html5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/scripts/jquery-1.4.2.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/styles/common.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/styles/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vite/deps_temp_663875fc/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README 2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bun.lockb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/postcss.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/postcss.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettier.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +49,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "scottzirkel"
+  }
+}]]></component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
       <filtered-out-file-type name="LOCAL_BRANCH" />
@@ -93,6 +88,12 @@
       </RecentBranches>
     </option>
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:scottzirkel/loreinvestigations.git",
+    "accountId": "fa294956-8c25-4c98-881d-745732cec3f8"
+  }
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -114,8 +115,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.laravel-idea.search-composer-json": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/scott/code/guysoftheuniverse/src/app",
+    "git-widget-placeholder": "laravel",
+    "last_opened_file_path": "/Users/scott/code/loreinvestigations",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -128,6 +129,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/app" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -155,6 +157,14 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PS-241.18034.69" />
+        <option value="bundled-php-predefined-ba97393d7c68-48a1a656d44e-com.jetbrains.php.sharedIndexes-PS-241.18034.69" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -173,7 +183,9 @@
       <workItem from="1647187911501" duration="4376000" />
       <workItem from="1702942292970" duration="1592000" />
       <workItem from="1703025683043" duration="7701000" />
-      <workItem from="1703369954834" duration="6075000" />
+      <workItem from="1703369954834" duration="6800000" />
+      <workItem from="1703779039483" duration="1208000" />
+      <workItem from="1723342008161" duration="2983000" />
     </task>
     <servers />
   </component>
