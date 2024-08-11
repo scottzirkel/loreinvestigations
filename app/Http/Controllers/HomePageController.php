@@ -10,7 +10,7 @@ class HomePageController extends Controller
     {
         $response = Http::withToken(config('services.webstrips.api'))
             ->get(config('services.webstrips.url').'/strips');
-        dd($response->body());
+        dd($response->json());
         return view('pages.index');
     }
 }
