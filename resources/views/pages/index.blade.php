@@ -1,4 +1,3 @@
-@inject('storage', 'Illuminate\Support\Facades\Storage')
 <html>
 <head>
     <meta charset="utf-8">
@@ -10,7 +9,7 @@
 </head>
 <body class="bg-gradient-to-b from-stone-950 to-black">
 <header class="bg-red-950 p-4 text-center">
-    <img src="{{ $storage::url('/logo.png') }}" width="950" height="290" alt="Lore Investigations" class="mx-auto" />
+    <img src="../../images/logo.webp" width="950" height="290" alt="Lore Investigations" class="mx-auto" />
 </header>
 <main class="mx-auto px-4 text-center md:px-12 lg:max-w-7xl">
     <div class="mx-auto max-w-2xl space-y-2 p-4 text-lg text-stone-200">
