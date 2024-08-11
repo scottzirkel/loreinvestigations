@@ -5,6 +5,25 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Lore Investigations</title>
     <meta name="description" content="Lore Investigations is a stand-alone web comic following the paranormal research of a haunted barn. Written by Amanda Jones and Scott Zirkel, art by Matt Hebb, Jason Worthington, and Juan Carlos Porras.">
+    <meta property="og:title" content="Lore Investigations">
+    <meta property="og:description" content="Lore Investigations is a stand-alone web comic following the paranormal research of a haunted barn. Written by Amanda Jones and Scott Zirkel, art by Matt Hebb, Jason Worthington, and Juan Carlos Porras.">
+    <meta property="og:url" content="https://loreinvestigations.com">
+    <meta property="og:site_name" content="Lore Investigations">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:image:type" content="image/png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image" content="{{ \Illuminate\Support\Facades\Vite::asset('resources/images/opengraph.jpg') }}">
+    <meta property="og:type" content="website">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@webstrips">
+    <meta name="twitter:creator" content="@scottzirkel">
+    <meta name="twitter:title" content="Lore Investigations">
+    <meta name="twitter:description" content="Lore Investigations is a stand-alone web comic following the paranormal research of a haunted barn. Written by Amanda Jones and Scott Zirkel, art by Matt Hebb, Jason Worthington, and Juan Carlos Porras.">
+    <meta name="twitter:image:type" content="image/png">
+    <meta name="twitter:image:width" content="1200">
+    <meta name="twitter:image:height" content="630">
+    <meta property="og:image" content="{{ \Illuminate\Support\Facades\Vite::asset('resources/images/opengraph.jpg') }}">
     <link rel="icon" href="/favicon.ico" type="image/x-icon" sizes="16x16">
     <link rel="preload" href="{{ $preload }}" as="image" />
     @vite('resources/css/app.css')

@@ -8,7 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02b3da8d-52f1-4bf0-8d6b-9a7367b0f0cf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/pages/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/pages/index.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -352,7 +353,7 @@
       <workItem from="1703369954834" duration="6800000" />
       <workItem from="1703779039483" duration="1208000" />
       <workItem from="1723342008161" duration="6941000" />
-      <workItem from="1723395643127" duration="552000" />
+      <workItem from="1723395643127" duration="2228000" />
     </task>
     <servers />
   </component>
