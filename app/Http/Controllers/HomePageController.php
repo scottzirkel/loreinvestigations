@@ -12,7 +12,7 @@ class HomePageController extends Controller
             ->get(config('services.webstrips.url').'/strips');
         $strip = $response->json();
         return view('pages.index', [
-            'images' => $strip->images
+            'images' => $strip['images']
         ]);
     }
 }

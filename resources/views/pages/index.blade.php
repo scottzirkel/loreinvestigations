@@ -51,7 +51,7 @@
     </footer>
     <section>
         @foreach ($images as $image)
-            <img src="{{ $image->original_url }}" alt="{{ $imge->name }}" loading="{{ $loop->index > 1 ? 'lazy' : 'eager' }}" />
+            <img src="{{ $image['original_url'] }}" alt="{{ $imge['name'] }}" loading="{{ $loop->index > 1 ? 'lazy' : 'eager' }}" />
         @endforeach
     </section>
 </main>
