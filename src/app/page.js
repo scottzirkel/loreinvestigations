@@ -25,14 +25,14 @@ export default function Home() {
           >
             Matt Hebb
           </a>
-          .&nbsp;Jason Worthington is on inks and Juan Carlos Porras bringing up
+          .{' '}Jason Worthington is on inks and Juan Carlos Porras bringing up
           the colors.
         </p>
       </div>
       <footer className="space-y-2 text-center text-sm text-stone-400">
         <p>
           Copyright © 2009-{new Date().getFullYear()}
-          &nbsp;
+          {' '}
           <a
             className="text-red-700 transition hover:text-red-500"
             href="https://scottzirkel.com"
@@ -40,10 +40,10 @@ export default function Home() {
           >
             Scott Zirkel.
           </a>
-          &nbsp;All rights reserved.
+          {' '}All rights reserved.
         </p>
         <p>
-          Powered by &nbsp;
+          Powered by {' '}
           <a
             className="text-red-700 transition hover:text-red-500"
             href="https://webstrips.app"
