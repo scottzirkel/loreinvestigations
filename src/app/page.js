@@ -12,7 +12,7 @@ export default function Home() {
           ghost.
         </p>
         <p>
-          Lore Investigations is written by Amanda Jones and
+          Lore Investigations is written by Amanda Jones and{" "}
           <a
             href="https://scottzirkel.com"
             target="_blank"
@@ -20,7 +20,7 @@ export default function Home() {
           >
             Scott Zirkel
           </a>
-          , with art by
+          , with art by{" "}
           <a
             href="http://www.matthebb.com"
             target="_blank"
@@ -66,105 +66,105 @@ export default function Home() {
         <Image
           width={1184}
           height={1831}
-          src="https://cdn.scottzirkel.com/prod/comics/com_Z3caUdQrqoN1HlfMsJ7rQ/images/156696c4f1e82ae95a8cfe166edee254/Page 1.jpg"
+          src="https://cdn.scottzirkel.com/prod/comics/com_Z3caUdQrqoN1HlfMsJ7rQ/images/156696c4f1e82ae95a8cfe166edee254/lore-page01.jpg"
           alt="Page 1"
           loading="lazy"
         />
         <Image
           width={1184}
           height={1831}
-          src="https://cdn.scottzirkel.com/prod/comics/com_Z3caUdQrqoN1HlfMsJ7rQ/images/769230c97cf2be89ef583a0bf28d80d2/Page 2.jpg"
+          src="https://cdn.scottzirkel.com/prod/comics/com_Z3caUdQrqoN1HlfMsJ7rQ/images/769230c97cf2be89ef583a0bf28d80d2/lore-page02.jpg"
           alt="Page 2"
           loading="lazy"
         />
         <Image
           width={1184}
           height={1831}
-          src="https://cdn.scottzirkel.com/prod/comics/com_Z3caUdQrqoN1HlfMsJ7rQ/images/b7db56cc42bc98991b8652dea2d64d7e/Page 3.jpg"
+          src="https://cdn.scottzirkel.com/prod/comics/com_Z3caUdQrqoN1HlfMsJ7rQ/images/b7db56cc42bc98991b8652dea2d64d7e/lore-page03.jpg"
           alt="Page 3"
           loading="lazy"
         />
         <Image
           width={1184}
           height={1831}
-          src="https://cdn.scottzirkel.com/prod/comics/com_Z3caUdQrqoN1HlfMsJ7rQ/images/a47c4d0713f66eac8b7bdb6617054dba/Page 4.jpg"
+          src="https://cdn.scottzirkel.com/prod/comics/com_Z3caUdQrqoN1HlfMsJ7rQ/images/a47c4d0713f66eac8b7bdb6617054dba/lore-page04.jpg"
           alt="Page 4"
           loading="lazy"
         />
         <Image
           width={1184}
           height={1831}
-          src="https://cdn.scottzirkel.com/prod/comics/com_Z3caUdQrqoN1HlfMsJ7rQ/images/8a28e5df90758aa760d444961a5f7834/Page 5.jpg"
+          src="https://cdn.scottzirkel.com/prod/comics/com_Z3caUdQrqoN1HlfMsJ7rQ/images/8a28e5df90758aa760d444961a5f7834/lore-page05.jpg"
           alt="Page 5"
           loading="lazy"
         />
         <Image
           width={1184}
           height={1831}
-          src="https://cdn.scottzirkel.com/prod/comics/com_Z3caUdQrqoN1HlfMsJ7rQ/images/d3a6fa64bb0502d3976ed3fc553d16f0/Page 6.jpg"
+          src="https://cdn.scottzirkel.com/prod/comics/com_Z3caUdQrqoN1HlfMsJ7rQ/images/d3a6fa64bb0502d3976ed3fc553d16f0/lore-page06.jpg"
           alt="Page 6"
           loading="lazy"
         />
         <Image
           width={1184}
           height={1831}
-          src="https://cdn.scottzirkel.com/prod/comics/com_Z3caUdQrqoN1HlfMsJ7rQ/images/e5f9c8877747d702d27100cd83cd2d4b/Page 7.jpg"
+          src="https://cdn.scottzirkel.com/prod/comics/com_Z3caUdQrqoN1HlfMsJ7rQ/images/e5f9c8877747d702d27100cd83cd2d4b/lore-page07.jpg"
           alt="Page 7"
           loading="lazy"
         />
         <Image
           width={1184}
           height={1831}
-          src="https://cdn.scottzirkel.com/prod/comics/com_Z3caUdQrqoN1HlfMsJ7rQ/images/8f495e48608023a43d92d590cfcc5014/Page 8.jpg"
+          src="https://cdn.scottzirkel.com/prod/comics/com_Z3caUdQrqoN1HlfMsJ7rQ/images/8f495e48608023a43d92d590cfcc5014/lore-page08.jpg"
           alt="Page 8"
           loading="lazy"
         />
         <Image
           width={1184}
           height={1831}
-          src="https://cdn.scottzirkel.com/prod/comics/com_Z3caUdQrqoN1HlfMsJ7rQ/images/59717acc0aad2a376abf2352466a3a8b/Page 9.jpg"
+          src="https://cdn.scottzirkel.com/prod/comics/com_Z3caUdQrqoN1HlfMsJ7rQ/images/59717acc0aad2a376abf2352466a3a8b/lore-page09.jpg"
           alt="Page 9"
           loading="lazy"
         />
         <Image
           width={1184}
           height={1831}
-          src="https://cdn.scottzirkel.com/prod/comics/com_Z3caUdQrqoN1HlfMsJ7rQ/images/73aad9421ba41b5ea54e6e3806de3657/Page 10.jpg"
+          src="https://cdn.scottzirkel.com/prod/comics/com_Z3caUdQrqoN1HlfMsJ7rQ/images/73aad9421ba41b5ea54e6e3806de3657/lore-page10.jpg"
           alt="Page 10"
           loading="lazy"
         />
         <Image
           width={1184}
           height={1831}
-          src="https://cdn.scottzirkel.com/prod/comics/com_Z3caUdQrqoN1HlfMsJ7rQ/images/30ce518a38b836f61451872b519f1c62/Page 11.jpg"
+          src="https://cdn.scottzirkel.com/prod/comics/com_Z3caUdQrqoN1HlfMsJ7rQ/images/30ce518a38b836f61451872b519f1c62/lore-page11.jpg"
           alt="Page 11"
           loading="lazy"
         />
         <Image
           width={1184}
           height={1831}
-          src="https://cdn.scottzirkel.com/prod/comics/com_Z3caUdQrqoN1HlfMsJ7rQ/images/3d1967b35041e9b26aa0ab9c85fc25ab/Page 12.jpg"
+          src="https://cdn.scottzirkel.com/prod/comics/com_Z3caUdQrqoN1HlfMsJ7rQ/images/3d1967b35041e9b26aa0ab9c85fc25ab/lore-page12.jpg"
           alt="Page 12"
           loading="lazy"
         />
         <Image
           width={1184}
           height={1831}
-          src="https://cdn.scottzirkel.com/prod/comics/com_Z3caUdQrqoN1HlfMsJ7rQ/images/43010f94c9fa73c90180fc48a92cc69d/Page 13.jpg"
+          src="https://cdn.scottzirkel.com/prod/comics/com_Z3caUdQrqoN1HlfMsJ7rQ/images/43010f94c9fa73c90180fc48a92cc69d/lore-page13.jpg"
           alt="Page 13"
           loading="lazy"
         />
         <Image
           width={1184}
           height={1831}
-          src="https://cdn.scottzirkel.com/prod/comics/com_Z3caUdQrqoN1HlfMsJ7rQ/images/41bfa0cafeab67390e556df5ce77275a/Page 14.jpg"
+          src="https://cdn.scottzirkel.com/prod/comics/com_Z3caUdQrqoN1HlfMsJ7rQ/images/41bfa0cafeab67390e556df5ce77275a/lore-page14.jpg"
           alt="Page 14"
           loading="lazy"
         />
         <Image
           width={1184}
           height={1831}
-          src="https://cdn.scottzirkel.com/prod/comics/com_Z3caUdQrqoN1HlfMsJ7rQ/images/4ba6a49d19a002b3dc5d2d49350b759c/Page 15.jpg"
+          src="https://cdn.scottzirkel.com/prod/comics/com_Z3caUdQrqoN1HlfMsJ7rQ/images/4ba6a49d19a002b3dc5d2d49350b759c/lore-page15.jpg"
           alt="Page 15"
           loading="lazy"
         />
