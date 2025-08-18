@@ -7,9 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02b3da8d-52f1-4bf0-8d6b-9a7367b0f0cf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="02b3da8d-52f1-4bf0-8d6b-9a7367b0f0cf" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -229,7 +227,7 @@
     "RunOnceActivity.laravel-idea.search-composer-json": "true",
     "RunOnceActivity.laravel-idea.update-module-directories": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "laravel",
+    "git-widget-placeholder": "#2 on laravel",
     "last_opened_file_path": "/Users/scott/code/loreinvestigations",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
