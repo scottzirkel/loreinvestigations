@@ -1,19 +1,36 @@
-"use client";
-
-export default function Logo() {
-  return (
-    <div className="mx-auto px-4 text-center md:px-12 lg:max-w-7xl">
-      <svg
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Lore Investigations</title>
+    <meta name="description" content="Lore Investigations is a stand-alone web comic following the paranormal research of a haunted barn. Written by Amanda Jones and Scott Zirkel, art by Matt Hebb, Jason Worthington, and Juan Carlos Porras.">
+    <meta property="og:title" content="Lore Investigations">
+    <meta property="og:description" content="Lore Investigations is a stand-alone web comic following the paranormal research of a haunted barn. Written by Amanda Jones and Scott Zirkel, art by Matt Hebb, Jason Worthington, and Juan Carlos Porras.">
+    <meta property="og:url" content="https://loreinvestigations.com">
+    <meta property="og:site_name" content="Lore Investigations">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:image" content="https://cdn.scottzirkel.com/loreinvestigations/cover.webp">
+    <meta property="og:type" content="website">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@webstrips">
+    <meta name="twitter:creator" content="@scottzirkel">
+    <meta name="twitter:title" content="Lore Investigations">
+    <meta name="twitter:description" content="Lore Investigations is a stand-alone web comic following the paranormal research of a haunted barn. Written by Amanda Jones and Scott Zirkel, art by Matt Hebb, Jason Worthington, and Juan Carlos Porras.">
+    <meta name="twitter:image" content="https://cdn.scottzirkel.com/loreinvestigations/cover.webp">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon" sizes="16x16">
+    <link rel="preload" href="https://cdn.scottzirkel.com/loreinvestigations/cover.webp" as="image">
+    <link rel="stylesheet" href="/css/app.css">
+</head>
+<body class="bg-gradient-to-b from-stone-950 to-black">
+<header class="bg-red-950 p-4 text-center">
+    <div class="mx-auto px-4 text-center md:px-12 lg:max-w-7xl">
+        <svg
         xmlns="http://www.w3.org/2000/svg"
-        xmlSpace="preserve"
-        style={{
-          fillRule: "evenodd",
-          clipRule: "evenodd",
-          strokeLinejoin: "round",
-          strokeMiterlimit: 2,
-        }}
+        xml:space="preserve"
+        style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2"
         viewBox="0 0 468 142"
-        className="fill-red-900"
+        class="fill-red-900"
       >
         <path
           d="M360.58 283.647c-2.496.864-4.32 1.44-5.472 1.728l.288-2.4c-7.104 2.784-12.384 4.896-15.936 6.432 0-14.688 1.152-30.72 3.36-48.192l-2.976.672c0-1.248.096-2.592.192-3.936-1.824.576-3.36 1.056-4.704 1.344-1.344 1.632-2.304 2.688-2.88 3.168l-1.44-2.784-2.016.576.48.576-.384.864.48 2.496-.864 2.784-1.728-4.704.768-1.536-5.856 2.208c0 15.264 1.248 33.6 3.84 55.008-.288 1.44-.384 2.496-.48 3.264l1.152-.96 1.92.192-.768.96h-.48l-1.248.672-.672.096-.096 1.536 1.344.672-.864 2.784.864 3.552c11.328-7.008 21.696-12.096 31.008-15.456l.48-1.92-1.152-1.44 2.4-.768.576-3.36h-.768l-2.304 1.248-2.784.096 3.84-3.072 2.304.288c.192-1.152.384-2.016.576-2.688Zm-28.608-32.064-1.344-3.456 1.152-2.112.672 1.152-.192.576.288 1.728-.576 2.112Zm21.024 40.608h-.48l-1.248.768-1.824.096 2.4-2.112 1.92.384-.768.864Z"
@@ -37,5 +54,52 @@ export default function Logo() {
         />
       </svg>
     </div>
-  );
-}
+</header>
+<main class="mx-auto px-4 text-center md:px-12 lg:max-w-7xl">
+    <div class="mx-auto max-w-2xl space-y-2 p-4 text-lg text-stone-200">
+        <p>
+            Lore Investigations follows the paranormal investigative team of Nathan and TJ. Their first case is The Creepy
+            Barn, in which they go up against what is possibly a possessed teenage girl. Of course, it&apos;s hard to tell a
+            regular teenage girl from one possessed by a ghost.
+        </p>
+        <p>
+            Lore Investigations is written by Amanda Jones and
+            <a href="https://scottzirkel.com" target="_blank" class="transition hover:text-red-700">
+                Scott Zirkel
+            </a>, with art by
+            <a href="http://www.matthebb.com" target="_blank" class="text-stone-400 underline transition hover:text-red-700">
+                Matt Hebb
+            </a>.
+            Jason Worthington is on inks and Juan Carlos Porras bringing up the colors.
+        </p>
+    </div>
+    <footer class="space-y-2 text-center text-sm text-stone-400">
+        <p>
+            Copyright &copy; 2009-2026
+            <a class="text-red-700 transition hover:text-red-500" href="https://scottzirkel.com" target="_blank">
+                Scott Zirkel.
+            </a>
+            All rights reserved.
+        </p>
+    </footer>
+    <section class="mt-8">
+        <img width="1184" height="1831" src="https://cdn.scottzirkel.com/loreinvestigations/cover.webp" alt="Cover" loading="eager">
+        <img width="1184" height="1831" src="https://cdn.scottzirkel.com/loreinvestigations/01.webp" alt="Page 1" loading="lazy">
+        <img width="1184" height="1831" src="https://cdn.scottzirkel.com/loreinvestigations/02.webp" alt="Page 2" loading="lazy">
+        <img width="1184" height="1831" src="https://cdn.scottzirkel.com/loreinvestigations/03.webp" alt="Page 3" loading="lazy">
+        <img width="1184" height="1831" src="https://cdn.scottzirkel.com/loreinvestigations/04.webp" alt="Page 4" loading="lazy">
+        <img width="1184" height="1831" src="https://cdn.scottzirkel.com/loreinvestigations/05.webp" alt="Page 5" loading="lazy">
+        <img width="1184" height="1831" src="https://cdn.scottzirkel.com/loreinvestigations/06.webp" alt="Page 6" loading="lazy">
+        <img width="1184" height="1831" src="https://cdn.scottzirkel.com/loreinvestigations/07.webp" alt="Page 7" loading="lazy">
+        <img width="1184" height="1831" src="https://cdn.scottzirkel.com/loreinvestigations/08.webp" alt="Page 8" loading="lazy">
+        <img width="1184" height="1831" src="https://cdn.scottzirkel.com/loreinvestigations/09.webp" alt="Page 9" loading="lazy">
+        <img width="1184" height="1831" src="https://cdn.scottzirkel.com/loreinvestigations/10.webp" alt="Page 10" loading="lazy">
+        <img width="1184" height="1831" src="https://cdn.scottzirkel.com/loreinvestigations/11.webp" alt="Page 11" loading="lazy">
+        <img width="1184" height="1831" src="https://cdn.scottzirkel.com/loreinvestigations/12.webp" alt="Page 12" loading="lazy">
+        <img width="1184" height="1831" src="https://cdn.scottzirkel.com/loreinvestigations/13.webp" alt="Page 13" loading="lazy">
+        <img width="1184" height="1831" src="https://cdn.scottzirkel.com/loreinvestigations/14.webp" alt="Page 14" loading="lazy">
+        <img width="1184" height="1831" src="https://cdn.scottzirkel.com/loreinvestigations/15.webp" alt="Page 15" loading="lazy">
+    </section>
+</main>
+</body>
+</html>
